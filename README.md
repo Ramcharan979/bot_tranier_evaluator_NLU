@@ -16,8 +16,6 @@ Designed for students, developers, and NLP learners who want a simple, clean wor
 
 🧪 Test Suite Included – Validate your models and preprocessing
 
-
-🧹 Modular Structure – UI, backend, models, tests separated clearly
 Annotation-and-ChatBot-Training/
 │
 ├── nlu_tests/                   # NLU & inference test scripts
@@ -40,3 +38,4 @@ Annotation-and-ChatBot-Training/
 ├── server.js                    # Node.js backend server
 ├── package.json                 # Node dependencies
 └── README.md                    # Documentation
+
